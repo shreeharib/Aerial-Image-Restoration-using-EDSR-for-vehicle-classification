@@ -1,1 +1,1 @@
-# Aerial-Image-Restoration-using-super-resolution-gan-for-vehicle-classification
+Aerial Image Restoration using EDSR for vehicle classification
